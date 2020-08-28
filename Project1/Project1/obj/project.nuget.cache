@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xyAG8rY7mtpiBKzZUjmb/Jor9Eq+/6HYujt8YC4fDchXdIx11VyfYHRbdHezDfxoiN6Uy0l6vrtoGlTM6XTAw==",
+  "success": true,
+  "projectFilePath": "C:\\YUCEL\\Work\\Mobildev\\02. After - 04.08.2020\\Project1\\Project1\\Project1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nüket\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
